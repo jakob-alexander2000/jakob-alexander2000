@@ -9,3 +9,4 @@
 - Third project
 - etc.
 
+![smiley face](https://en.wikipedia.org/wiki/Smiley#/media/File:SNice.svg)
