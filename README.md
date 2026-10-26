@@ -1,26 +1,18 @@
-# WELCOME TO MY GITHUB PAGE
+### Jakob Alex · Berlin
 
+Generalist with strong technical range — full-stack, product, and LLM systems — and genuine passion for building things that actually ship.
 
+Comparative literature background, coding bootcamp, CS graduating early next year. I care about taste and craft as much as the stack.
 
-## Recent Projects
+**Lately:** agentic / RAG systems, clickable demos, the product decisions that make them usable.
 
-### [Social Media App](https://github.com/jakob-alexander2000/finalproject) 
-#### A Full-Stack Social Media App
+**Up next**
+- CiteBot — RAG demo with citations (shipping)
+- Personal site — if it's on the site, it runs
 
-### [Text-Block Sharing App](https://github.com/jakob-alexander2000/issuesthree)
-#### A responsive FS-Application where Users can post, update and delete text posts
+**Selected**
+- [ai-study-companion](https://github.com/jakob-alexander2000/ai-study-companion)
+- [the-mood-menu](https://github.com/jakob-alexander2000/the-mood-menu)
+- [portfolio](https://github.com/jakob-alexander2000/portfolio)
 
-### [Blog App](https://github.com/jakob-alexander2000/blog-app) (work in progress)
-#### A blog app that uses TipTap's Rich-Text-Editor
-
-### [Tourio App](https://github.com/jakob-alexander2000/tourio_app)
-#### Collaborative Pair Programming practice, App that displays sights, let's you create new ones, edit and delete (CRUD)
-
-### [Art-Gallery App](https://github.com/khaledsultan/Art_Gallery_app)
-#### Pair Programming practice, Full-Stack Art Gallery App
-
-### More to follow :)
-
-
-
-
+Open to product / AI / dev-tools roles where range and shipping speed matter.
