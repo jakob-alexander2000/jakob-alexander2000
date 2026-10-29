@@ -1,6 +1,6 @@
 # Jakob Alex
 
-Berlin. I build tools that answer from a document you can open, then show whether each claim holds.
+Berlin. Tools for asking questions of files you can open, with the source named on every result. CiteBot also marks whether each claim holds.
 
 ## Selected work
 
@@ -28,13 +28,13 @@ npm install
 npm run eval
 ```
 
-Each case names the fact an answer must state and the file it must cite, or a question the answer must refuse or whose false premise it must correct. The command scores saved replies, not live model output. A live call to CiteBot is optional and is not the gate.
+Each case names the fact an answer must state and the file it must cite. Some must refuse, or correct a false premise. The command scores saved replies, not live model output. A live call to CiteBot is optional and is not the gate.
 
 ### [Desk](https://github.com/jakob-alexander2000/desk)
 
 Ask a folder of notes on your machine. The answer names the files it used.
 
-Source, runs locally. Needs a Gemini API key.
+Source, runs locally. Needs a Gemini key.
 
 ```bash
 git clone https://github.com/jakob-alexander2000/desk.git
