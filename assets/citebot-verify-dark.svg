@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="168" viewBox="0 0 760 168" role="img">
   <title>CiteBot verify step</title>
-  <desc>A question goes to at most three handbook tools, then a draft written by the model. Verify marks each claim pass, fail, or unsupported against those same passages.</desc>
+  <desc>A question goes to at most three handbook lookups, then a draft written by the model. Verify marks each claim pass, fail, or unsupported against those same passages.</desc>
   <rect width="760" height="168" fill="#0d1117"/>
   <defs>
     <marker id="arrow" viewBox="0 0 8 8" refX="7.2" refY="4" markerWidth="7" markerHeight="7" orient="auto">

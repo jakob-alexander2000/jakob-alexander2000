@@ -10,8 +10,8 @@ Ask one employee handbook a question, and read the check under the answer.
 
 [Try it](https://citebot-chi.vercel.app). The fixed questions, and what a pass requires, are on [the evaluation page](https://citebot-chi.vercel.app/evals).
 
-![CiteBot verify step. A question goes to at most three handbook tools, then a draft the model writes. Both the draft and the verify step use those same passages. Verify marks each claim pass, fail, or unsupported.](assets/citebot-verify-light.svg#gh-light-mode-only)
-![CiteBot verify step. A question goes to at most three handbook tools, then a draft the model writes. Both the draft and the verify step use those same passages. Verify marks each claim pass, fail, or unsupported.](assets/citebot-verify-dark.svg#gh-dark-mode-only)
+![CiteBot verify step. A question goes to at most three handbook lookups, then a draft the model writes. Both the draft and the verify step use those same passages. Verify marks each claim pass, fail, or unsupported.](assets/citebot-verify-light.svg#gh-light-mode-only)
+![CiteBot verify step. A question goes to at most three handbook lookups, then a draft the model writes. Both the draft and the verify step use those same passages. Verify marks each claim pass, fail, or unsupported.](assets/citebot-verify-dark.svg#gh-dark-mode-only)
 
 The model drafts from the passages it just retrieved, with at most three handbook lookups. A second model call marks each claim against those same passages, and a refusal counts as pass when the handbook does not cover the question. `npm run eval` replays the loop offline with no key, using a scripted draft and a word-overlap check in place of the model. Limit: one sample handbook.
 
