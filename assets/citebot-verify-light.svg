@@ -27,12 +27,12 @@
     <line x1="520" y1="74" x2="520" y2="108" marker-end="url(#arrow)"/>
   </g>
   <g class="label" fill="#141414" font-family="Helvetica, Arial, sans-serif" text-anchor="middle">
-    <text x="95" y="50" font-size="15">Question</text>
-    <text x="303" y="40" font-size="15">Handbook tools</text>
-    <text class="quiet" x="303" y="58" font-size="12" fill="#4a4a4a">at most three</text>
-    <text x="520" y="40" font-size="15">Draft</text>
-    <text class="quiet" x="520" y="58" font-size="12" fill="#4a4a4a">the model writes it</text>
-    <text class="quiet" x="411" y="100" font-size="12" fill="#4a4a4a">same passages</text>
-    <text x="409" y="137" font-size="14">Verify: pass, fail, or unsupported</text>
+    <text x="95" y="50" font-size="16">Question</text>
+    <text x="303" y="40" font-size="16">Handbook tools</text>
+    <text class="quiet" x="303" y="58" font-size="14" fill="#4a4a4a">at most three</text>
+    <text x="520" y="40" font-size="16">Draft</text>
+    <text class="quiet" x="520" y="58" font-size="14" fill="#4a4a4a">the model writes it</text>
+    <text class="quiet" x="411" y="100" font-size="14" fill="#4a4a4a">same passages</text>
+    <text x="409" y="137" font-size="16">Verify: pass, fail, or unsupported</text>
   </g>
 </svg>
