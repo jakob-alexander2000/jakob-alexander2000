@@ -28,7 +28,7 @@ npm install
 npm run eval
 ```
 
-Each case names the fact an answer must state and the file it must cite. Some must refuse, or correct a false premise. The command scores saved replies, not live model output. A live call to CiteBot is optional and is not the gate.
+Each case names the fact an answer must state and the file it must cite. Some must refuse, or correct a false premise. The command scores example replies written for the test, not live model output. A live call to CiteBot is optional and is not the gate.
 
 ### [Desk](https://github.com/jakob-alexander2000/desk)
 
