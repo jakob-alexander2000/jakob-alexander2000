@@ -1,6 +1,6 @@
 # Jakob Alex
 
-Berlin. Tools for asking questions of files you can open, with the source named on every result. CiteBot also marks whether each claim holds.
+Berlin. Tools that answer questions from documents and show which file each answer came from. CiteBot also marks whether each claim holds.
 
 ## Selected work
 
